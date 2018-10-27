@@ -1,0 +1,76 @@
+
+
+.container-fluid  {
+    height: 250px;
+    background-color: grey;
+
+
+}
+h1    {
+    text-align: center;
+    padding-top: 30px;
+}
+
+
+
+#background  {
+    color: greenyellow;
+    background-color: maroon
+}
+
+.circle {
+    display: block;
+    background: black;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    margin: 0;
+    background: radial-gradient(circle at 100px 100px, #5cabff, #000);
+    float: right;
+  }
+  
+.circle2 {
+    display: block;
+    background: black;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin: 0;
+    background: radial-gradient(circle at 100px 100px, cyan, #000);
+    float: right;
+  }
+    
+.circle3 {
+    display: block;
+    background: black;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin: 0;
+    background: radial-gradient(circle at 100px 100px, magenta, #000);
+    float: right;
+  }
+  .circle4 {
+    display: block;
+    background: black;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin: 0;
+    background: radial-gradient(circle at 100px 100px, maroon, #000);
+    float: right;
+
+  }
+  #Instructions   {
+      padding-left: 20px;
+      padding-bottom: 20px;
+      padding-top: 20px;
+  }
+  h3  {
+      padding-left: 20px;
+  }
+
+  h4  {
+    padding-left: 20px;
+}
+
